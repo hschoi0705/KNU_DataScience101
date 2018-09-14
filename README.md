@@ -14,3 +14,14 @@
 ### Week 01
 
 * Explorer Iris Dataset
+
+### Week 02 Pre-processing
+
+* Standardization or mean removal or variance scaling (Z-score)
+* Min-Max Normalization
+* Normalized vector or Unit vector
+* Binarization
+* One-hot-encoder
+* Missing value imputation
+* Image Pre-processing
+* Read CSV file in order to make data feame(Pandas) AND Change column name
