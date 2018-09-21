@@ -6,7 +6,7 @@
 ## Requirements
 
 * Python 3.x
-* Library: pandas, matplotlib, seaborn
+* Library: pandas, matplotlib, seaborn, sci-kit learn
 
 
 ## Table of Contents
@@ -25,3 +25,17 @@
 * Missing value imputation
 * Image Pre-processing
 * Read CSV file in order to make data feame(Pandas) AND Change column name
+
+
+### Week 03 Visualization
+
+* Line Chart
+* Pie Chart
+* Bar Chart
+* Histogram
+* Representation Values
+* Box Plot
+* Violin Plot
+* Scatter Plot
+* Scatter Plot Matrix
+* Heatmap
