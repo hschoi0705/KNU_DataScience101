@@ -39,3 +39,12 @@
 * Scatter Plot
 * Scatter Plot Matrix
 * Heatmap
+
+
+### Week 04 Linear Algebra
+
+* Vector Operation
+* Vector Norm & Inner Product
+* Matrix Operation
+* Various Square Matrix
+* Matrix Translation & Eigen Analysis
