@@ -48,3 +48,15 @@
 * Matrix Operation
 * Various Square Matrix
 * Matrix Translation & Eigen Analysis
+
+
+### Week 05 Statistics
+
+* Interval Estimation
+
+
+### Week 06 Feature Extraction
+
+* PCA (Principal Component Analysis)
+* LDA (Linear Discriminant Analysis)
+
