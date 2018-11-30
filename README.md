@@ -1,12 +1,12 @@
 # 데이터과학기초 강의예제코드
 
-경북대학교 IT대학 컴퓨터학부 데이터과학기초(ITEC419-001) 강의예제코드
+경북대학교 IT대학 컴퓨터학부 데이터과학기초(ITEC419-001, 2018년2학기) 강의예제코드
 
 
 ## Requirements
 
 * Python 3.x
-* Library: pandas, matplotlib, seaborn, sci-kit learn
+* Library: pandas(0.23.0), matplotlib(2.2.2), seaborn(0.8.1), sci-kit learn(0.19.1)
 
 
 ## Table of Contents
@@ -59,4 +59,16 @@
 
 * PCA (Principal Component Analysis)
 * LDA (Linear Discriminant Analysis)
+
+### Week 07 Bayesian Classifier
+
+* Bayesian Classifer for Gaussian Distribution
+
+### Week 08 K-Nearest Neighbor Classifier
+
+* K-Nearest Neighbor Classifier using hand-made version and scikit-learn library
+
+### Week 09 Clustering
+
+* K-means clustering (hand-made version)
 
