@@ -72,3 +72,18 @@
 
 * K-means clustering (hand-made version)
 
+### Week 10 Regression
+
+* Simple Linear Regression
+* Simple Linear Regression using scikit-learn library
+
+### Week 11 Neural Network
+
+* Multi Layer Perceptron
+
+
+### Week 12 Deep Learning
+
+* MNIST Example using Keras with TensorFlow
+
+※ Requirements: Keras(2.2.2)
