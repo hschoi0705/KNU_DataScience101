@@ -1,6 +1,6 @@
 # 데이터과학기초 강의예제코드
 
-경북대학교 IT대학 컴퓨터학부 데이터과학기초(ITEC419-001, 2018년2학기) 강의예제코드
+경북대학교 IT대학 컴퓨터학부 데이터과학기초(ITEC419-001, 2018~) 강의예제코드
 
 
 ## Requirements
@@ -86,4 +86,4 @@
 
 * MNIST Example using Keras with TensorFlow
 
-※ Requirements: Keras(2.2.2)
+	※ Requirements: Keras(2.2.2)
