@@ -87,3 +87,7 @@
 * MNIST Example using Keras with TensorFlow
 
 	※ Requirements: Keras(2.2.2)
+
+### Homework
+
+* Feature Extraction and Classification for COIL20 Dataset
